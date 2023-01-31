@@ -1,7 +1,9 @@
 # MR_training
 
-Here is a feedback of the Mendelian Randomization (MR) course, hold in November 2020, provided by the MRC Biostatistics Unit from Cambridge University (UK).  
-(More detail here http://mendelianrandomization.com/index.php)
+Here is a feedback of the Mendelian Randomization (MR) course, followed in November 2020, provided by the MRC Biostatistics Unit from Cambridge University (UK).  
+(More detail here http://mendelianrandomization.com/index.php)  
+
+You can consider these repository as an introduction, very broad, kind of starter pack to run your first MR analysis.
 
 ## Theorical part 
 
@@ -11,7 +13,7 @@ Here is a feedback of the Mendelian Randomization (MR) course, hold in November 
 - Methods on Summary level data and Two Samples MR
 - Robust Methods, Issues and Sensitivity analyses
 
-[Slides & comments](https://github.com/mboissel/MR_training/blob/main/MendelianRandomization_MB.pptx)
+[Slides & comments](https://github.com/mboissel/MR_training/blob/main/MendelianRandomization_MB.pptx)  
 [PDF](https://github.com/mboissel/MR_training/blob/main/MendelianRandomization_MB.pdf)
 
 ## Practical session
@@ -20,5 +22,5 @@ Here is a feedback of the Mendelian Randomization (MR) course, hold in November 
 - Summary level data application
 - Visualisations
 
-[Rmd to run](https://github.com/mboissel/MR_training/blob/main/MR_practical_session.Rmd)
+[Rmd to run](https://github.com/mboissel/MR_training/blob/main/MR_practical_session.Rmd)  
 [Rmd render in html](https://github.com/mboissel/MR_training/blob/main/MR_Practicical_Session_2023.html)
