@@ -22,5 +22,5 @@ You can consider these repository as an introduction, very broad, kind of starte
 - Summary level data application
 - Visualisations
 
-[Rmd to run](https://github.com/mboissel/MR_training/blob/main/MR_practical_session.Rmd)  
-[Rmd render in html](https://github.com/mboissel/MR_training/blob/main/MR_Practicical_Session_2023.html)
+[Rmd to run](https://github.com/mboissel/MR_training/blob/main/MR_Practical_Session_MB_2023.Rmd)  
+[Rmd render in html](https://github.com/mboissel/MR_training/blob/main/MR_Practical_Session_MB_2023.html)
