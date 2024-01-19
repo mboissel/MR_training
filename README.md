@@ -13,6 +13,7 @@ You can consider these repository as an introduction, very broad, kind of starte
 - Methods on Summary level data and Two Samples MR
 - Robust Methods, Issues and Sensitivity analyses
 
+[Video](https://www.canal-u.tv/chaines/ris/introduction-a-la-randomisation-mendelienne)
 [Slides & comments](https://github.com/mboissel/MR_training/blob/main/MendelianRandomization_MB_2023.pptx)  
 [PDF](https://github.com/mboissel/MR_training/blob/main/MendelianRandomization_MB_2023.pdf)
 
